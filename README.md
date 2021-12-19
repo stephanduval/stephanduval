@@ -9,8 +9,8 @@
       
 - 💞️ I’m looking to collaborate on ...
 
-      I'm very interested in collaborating.  I've got a few projects on the go and
-      I'm open to helping others
+      I'm very interested in collaborating.  
+      I've got a few projects on the go and I'm open to helping others
 
 - 📫 How to reach me ...
 

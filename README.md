@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @stephanduval
+
+     I'm a former film technician from Vancouver BC who is working toward
+     a career in web development.
+
 - 👀 I’m interested in ...
      
       Embedded Systems, AppDesign and Business Development
